@@ -1,0 +1,1 @@
+# Implement-scd-type-1-in-informatica
