@@ -1,4 +1,4 @@
-# Implement-scd-type-1-in-informatica
+# Data pipeline in Informatica SCD Type1
 
 ## What is SCD Type1?
 The SCD Type 1 method is used when there is no need to store historical data in the Dimension table. The SCD type 1 method overwrites the old data with the new data in the dimension table.
