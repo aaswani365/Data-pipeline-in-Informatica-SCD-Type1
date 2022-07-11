@@ -5,7 +5,7 @@ The SCD Type 1 method is used when there is no need to store historical data in 
 
 ## Process for Implementing SCD Type1
 
-● Identifying the new record and inserting it in to the dimension table.
+● Identifying the new record and inserting it into the dimension table.
 
 ● Identifying the changed record and updating the dimension table.
 
